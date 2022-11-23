@@ -1,6 +1,6 @@
 <h1 align="center">Hi, i'am Matheus Gabriel Nogueira. 👋</h1>
 <p>
-- 🌱 I’m currently learning HTML, CSS, JavaScript. <br>
+🌱 I’m currently learning HTML, CSS, JavaScript. <br>
 
 - I'm currently studying web programming languages (HTML5, CSS3 & JavaScript).
 Dedicating all my free time to studying and improving these languages as well as developing soft skill & hard skill. Daily I seek to learn, read, and understand about technology. My profile is curious, self-taught, flexible and dynamic and this allows me to research, learn, filter information and share it.
