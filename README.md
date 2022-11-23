@@ -1,11 +1,10 @@
 <h1 align="center">Hi, i'am Matheus Gabriel Nogueira. 👋</h1>
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
+<p>
+- 🌱 I’m currently learning HTML, CSS, JavaScript. <br>
 
 - I'm currently studying web programming languages (HTML5, CSS3 & JavaScript).
-Dedicating all my free time to studying and improving these languages as well as developing soft skill & hard skill.
-
-Daily I seek to learn, read, and understand about technology.
-My profile is curious, self-taught, flexible and dynamic and this allows me to research, learn, filter information and share it.
+Dedicating all my free time to studying and improving these languages as well as developing soft skill & hard skill. Daily I seek to learn, read, and understand about technology. My profile is curious, self-taught, flexible and dynamic and this allows me to research, learn, filter information and share it.
+</p>
 
 <hr/>
 
@@ -14,15 +13,15 @@ Languages
 </h3>
 
  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="45" src="https://icongr.am/devicon/html5-original-wordmark.svg">
-  <img align="center" alt="CSS" height="30" width="45" src="https://icongr.am/devicon/css3-original-wordmark.svg">
-  <img align="center" alt="Js" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 </div>
 
 <hr/>
 
-<div> 
+<div align="center"> 
  <a href="https://www.linkedin.com/in/eomgn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/matheuzngr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eomgnxd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
