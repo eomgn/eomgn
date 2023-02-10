@@ -16,7 +16,7 @@ Languages
   <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript- plain.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.wordmark.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=137&color=currentColor">
 
 </div>
 
