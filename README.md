@@ -25,6 +25,8 @@ Languages
  <img align="center" alt="Figma" src="https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=Figma&logoColor=blue">
  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&logo=Bootstrap&logoColor=blue">
  <img align="center" alt="Github" src="https://img.shields.io/badge/-Github-white?style=for-the-badge&logo=Github&logoColor=blue">
+
+ [HTML5](https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=HTML5&logoColor=blue)
 </div>
 
 <hr/>
