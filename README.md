@@ -14,7 +14,7 @@ Languages
 
  <div align="center" style="display: inline_block"><br>
  <img align="center" alt="HTML5" src="https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=HTML5&logoColor=blue">
- <img align="center" alt="CSS3" src="https://img.shields.io/badge/-CSS3-white?style=for-the-badge&logo=CSS3&logoColor=blue">
+ <img align="center" .mt1 alt="CSS3" src="https://img.shields.io/badge/-CSS3-white?style=for-the-badge&logo=CSS3&logoColor=blue">
  <img align="center" alt="Sass" src="https://img.shields.io/badge/-Sass-white?style=for-the-badge&logo=Sass&logoColor=blue">
  <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=blue">
  <img align="center" alt="Github" src="https://img.shields.io/badge/-Github-white?style=for-the-badge&logo=Github&logoColor=blue">
@@ -26,7 +26,6 @@ Languages
  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&logo=Bootstrap&logoColor=blue">
  <img align="center" alt="Github" src="https://img.shields.io/badge/-Github-white?style=for-the-badge&logo=Github&logoColor=blue">
 
- [HTML5](https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=HTML5&logoColor=blue)
 </div>
 
 <hr/>
