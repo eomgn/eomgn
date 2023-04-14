@@ -13,10 +13,7 @@ Languages
 </h3>
 
  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=137&color=currentColor">
+  [![TypeScript](https://img.shields.io/badge/-TypeScript-1967d2?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org/)]
 
 </div>
 
