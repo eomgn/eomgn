@@ -9,24 +9,20 @@ Dedicating all my free time to studying and improving these languages as well as
 <hr/>
 
  <h3 align="center">
-Languages
+Skills
 </h3>
 
- <div align="center" style="display: inline_block"><br>
- <img align="center" alt="HTML5" src="https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=HTML5&logoColor=blue">
- <img align="center" .mt1 alt="CSS3" src="https://img.shields.io/badge/-CSS3-white?style=for-the-badge&logo=CSS3&logoColor=blue">
- <img align="center" alt="Sass" src="https://img.shields.io/badge/-Sass-white?style=for-the-badge&logo=Sass&logoColor=blue">
- <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=blue">
- <img align="center" alt="Github" src="https://img.shields.io/badge/-Github-white?style=for-the-badge&logo=Github&logoColor=blue">
- <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=blue">
- <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript&logoColor=blue">
- <img align="center" .mt1 alt="Angular" src="https://img.shields.io/badge/-Angular-white?style=for-the-badge&logo=Angular&logoColor=blue">
- <img align="center" alt="Vue.JS" src="https://img.shields.io/badge/-VueJS-white?style=for-the-badge&logo=Vue.JS&logoColor=blue">
- <img align="center" alt="Figma" src="https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=Figma&logoColor=blue">
- <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&logo=Bootstrap&logoColor=blue">
- <img align="center" alt="Github" src="https://img.shields.io/badge/-Github-white?style=for-the-badge&logo=Github&logoColor=blue">
-
-</div>
+[![HTML5](https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=HTML5&logoColor=blue)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/-CSS3-white?style=for-the-badge&logo=CSS3&logoColor=blue)](https://www.w3schools.com/css/)
+[![SASS](https://img.shields.io/badge/-Sass-white?style=for-the-badge&logo=Sass&logoColor=blue)](https://sass-lang.com/)
+[![TAILWIND CSS](https://img.shields.io/badge/-Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=blue)](https://tailwindcss.com/)
+[![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=blue)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript&logoColor=blue)](https://www.typescriptlang.org/)
+[![ANGULAR](https://img.shields.io/badge/-Angular-white?style=for-the-badge&logo=Angular&logoColor=blue)](https://angular.io/)
+[![VUE.JS](https://img.shields.io/badge/-VueJS-white?style=for-the-badge&logo=Vue.JS&logoColor=blue)](https://vuejs.org/)
+[![FIGMA](https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=Figma&logoColor=blue)](https://www.figma.com/)
+[![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&logo=Bootstrap&logoColor=blue)](https://getbootstrap.com/)
+[![GITHUB](https://img.shields.io/badge/-Github-white?style=for-the-badge&logo=Github&logoColor=blue)](https://github.com/)
 
 <hr/>
 
