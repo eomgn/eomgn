@@ -13,13 +13,12 @@ Languages
 </h3>
 
  <div align="center" style="display: inline_block"><br>
- <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=HTML5&logoColor=blue">
+ <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=HTML5&logoColor=blue">
+ <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-CSS3-white?style=for-the-badge&logo=CSS3&logoColor=blue">
+ <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=blue">
  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript&logoColor=blue">
- <img align="center" alt="TypeScript" src="[https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript&logoColor=blue](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=blue)">
- <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript&logoColor=blue">
- <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript&logoColor=blue">
- <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript&logoColor=blue">
- [JavaScript][https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript&logoColor=blue](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=blue)
+ <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-Angular-white?style=for-the-badge&logo=Angular&logoColor=blue">
+ <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-Vue-white?style=for-the-badge&logo=Vue&logoColor=blue">
 </div>
 
 <hr/>
