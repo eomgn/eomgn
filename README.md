@@ -13,7 +13,7 @@ Languages
 </h3>
 
  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript&logoColor=blue">
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript&logoColor=blue">
 
 </div>
 
