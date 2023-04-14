@@ -20,7 +20,7 @@ Languages
  <img align="center" alt="Github" src="https://img.shields.io/badge/-Github-white?style=for-the-badge&logo=Github&logoColor=blue">
  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=blue">
  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript&logoColor=blue">
- <img align="center" alt="Angular" src="https://img.shields.io/badge/-Angular-white?style=for-the-badge&logo=Angular&logoColor=blue">
+ <img align="center" .mt1 alt="Angular" src="https://img.shields.io/badge/-Angular-white?style=for-the-badge&logo=Angular&logoColor=blue">
  <img align="center" alt="Vue.JS" src="https://img.shields.io/badge/-VueJS-white?style=for-the-badge&logo=Vue.JS&logoColor=blue">
  <img align="center" alt="Figma" src="https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=Figma&logoColor=blue">
  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&logo=Bootstrap&logoColor=blue">
