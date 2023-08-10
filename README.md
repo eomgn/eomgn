@@ -10,6 +10,7 @@ I'm currently studying Front-End web development and dedicating all my free time
 </p>
 
 - 🔍 Some of my projects
+  - [E-commerce](https://github.com/eomgn/e-commerce-app-ng)
   - [Countries](https://github.com/eomgn/countries-ng)
   - [Register of products](https://github.com/eomgn/registerr-ng)
   - [Marvel Comics](https://github.com/eomgn/marvel-comics)
