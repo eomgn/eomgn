@@ -13,6 +13,7 @@ I'm currently studying Front-End web development and dedicating all my free time
   - [Breweries List](https://github.com/eomgn/breweries-ng)
   - [Countries](https://github.com/eomgn/countries-ng)
   - [Register of products](https://github.com/eomgn/registerr-ng)
+  - [List of Tasks](https://github.com/eomgn/list-of-tasks)
   - [Marvel Comics](https://github.com/eomgn/marvel-comics)
   - [NFT Page](https://github.com/eomgn/nft-page)
   - [Aleatory password](https://github.com/eomgn/password-generator)
