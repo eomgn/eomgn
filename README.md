@@ -21,10 +21,10 @@ I'm currently studying Front-End web development and dedicating all my free time
 
 - ✉️ How to reach me
 
-  <a  href="https://www.linkedin.com/in/eomgn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fla-square&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/matheuzngr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eomgnxd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23333?style=flat&logo=icloud&logoColor=white" target="_blank"></a>
-  <a href = "https://api.whatsapp.com/send?phone=5588981470492" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eomgn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fla-square&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.instagram.com/matheuzngr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"></a>
+  <a href = "mailto:eomgnxd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23333?style=flat&logo=icloud&logoColor=white"></a>
+  <a href = "https://api.whatsapp.com/send?phone=5588981470492" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 
 <hr/>
 
